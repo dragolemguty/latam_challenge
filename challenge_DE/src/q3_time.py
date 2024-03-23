@@ -1,5 +1,6 @@
 from typing import List, Tuple
 import pandas as pd
+pd.options.mode.chained_assignment = None
 from pandas import json_normalize
 import json
 
