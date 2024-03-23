@@ -2,5 +2,6 @@ memory-profiler==0.61.0
 py-spy
 pandas==2.2.1
 requests==2.31.0
+chardet
 emoji==2.10.1
 ipykernel
